@@ -21,6 +21,7 @@ class ToDoList extends Component {
             items:array
         });
     } */
+
     DeleteClick= (e) =>{
        /*  e.handleChange() */
         //on vérifie qu'on recupere bien l'id de la task
